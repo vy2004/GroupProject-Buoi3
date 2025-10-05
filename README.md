@@ -14,3 +14,4 @@ Dòng này do A (Minh Khang) thêm vào README
 
 Bản cập nhật nhỏ cho v1.1
 
+Đây là commit sai nội dung
