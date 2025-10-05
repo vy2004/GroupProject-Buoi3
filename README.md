@@ -17,3 +17,5 @@ Dòng này do A (Minh Khang) thêm vào README
 
 Bản cập nhật nhỏ cho v1.1
 
+
+ parent of c531b20 (Commit sai nội dung vào README.md)
